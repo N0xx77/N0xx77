@@ -4,7 +4,7 @@
 
 # 💻 Tech Stack:
 <p align = "center">
-  <img src = "https://skillicons.dev/icons?i=c,cpp,java,py,mysql,html,css,eclipse,arduino,figma,flutter,canva,github,linux"/>
+  <img src = "https://skillicons.dev/icons?i=c,cpp,java,py,mysql,html,css,eclipse,arduino,figma,flutter,github,linux"/>
 </p>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=N0xx77&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
