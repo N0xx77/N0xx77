@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on developing leetcode, and future java related projects<br><br>🌱 I’m currently learning javafx, java swing, python libraries and dsa<br><br>👯 I’m looking to collaborate on ai related projects<br><br>📫 How to reach me abodhdpanchal@gmail.com
+🔭 I’m currently working on DSA leetcode, developing a Lost and Found System for colleges and exploring full stack with focus on backend<br><br>🌱 I’m currently learning DSA, implementation of PERN and MERN stacks, and look forward to learn angular, and java springboot<br><br>👯 I’m looking to collaborate on ai related projects and full stack related projects that will enhance my grasp and knowledge about the backend<br><br>📫 How to reach me abodhdpanchal@gmail.com
 
 
 # 💻 Tech Stack:
