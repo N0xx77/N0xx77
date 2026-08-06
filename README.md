@@ -70,12 +70,12 @@ Built with a clean client/server/mongoServer split for separation of concerns, d
 
 <img src="https://leetcard.jacoblin.cool/N0xx7?theme=nord&font=JetBrains+Mono&ext=heatmap" alt="leetcode stats"/>
 
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N0xx77/N0xx77/output/github-contribution-grid-snake-dark.svg" />
   <img alt="a snake eating my contribution graph" src="https://raw.githubusercontent.com/N0xx77/N0xx77/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
-
-</div>
 
 ---
 
