@@ -1,6 +1,8 @@
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N0xx77/N0xx77/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="a snake eating my contribution graph" src="https://raw.githubusercontent.com/N0xx77/N0xx77/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 <div align="center">
-
-
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=900&color=B18CFF&center=true&vCenter=true&width=900&lines=Abodh+Panchal;Powered+by+curiosity+%26+caffeine;Collecting+bugs+like+Pok%C3%A9mon;Building+things+I'll+probably+rewrite+later;git+push+--force+(just+kidding);Coffee+ratio%3A+%E2%88%9E" alt="typing animation"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abodh-panchal-0a0b59301/)
@@ -26,23 +28,19 @@
 
 ---
 
-### 🧠 featured builds
+## 🧠 featured builds
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-<table>
-<tr>
-<td width="50%" valign="top">
+<td valign="top">
 
 **🧾 EdenRedClaims — Expense Claims Portal**
 <br/>
-Full-stack system for submitting and approving employee expense claims, with a React client, an Express API server, and a dedicated MongoDB service layer.
+Full-stack system for submitting and approving employee expense claims, with a React client, an Express API server, and a dedicated MongoDB and Postgres service layer to host and record receipts, users, and user claims.
 
 Built with a clean client/server/mongoServer split for separation of concerns, deployed on Vercel.
 
-`React` `Node.js` `Express` `MongoDB` `Vercel`
+`React` `Node.js` `Express` `MongoDB` `Postgres` `Vercel`
 
 </td>
 </tr>
@@ -50,7 +48,7 @@ Built with a clean client/server/mongoServer split for separation of concerns, d
 
 ---
 
-### 🧰 Stack
+## 🧰 Stack
 
 <div align="center">
 
@@ -64,7 +62,7 @@ Built with a clean client/server/mongoServer split for separation of concerns, d
 
 ---
 
-### 📊 stats
+## 📊 stats
 
 <div align="center">
 
@@ -72,12 +70,6 @@ Built with a clean client/server/mongoServer split for separation of concerns, d
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N0xx77/N0xx77/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="a snake eating my contribution graph" src="https://raw.githubusercontent.com/N0xx77/N0xx77/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
----
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer"/>
