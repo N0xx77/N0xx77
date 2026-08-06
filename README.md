@@ -1,29 +1,85 @@
-# 💫 About Me:
-🔭 I’m currently working on DSA leetcode, developing a Lost and Found System for colleges and exploring full stack with focus on backend<br><br>🌱 I’m currently learning DSA, implementation of PERN and MERN stacks, and look forward to learn angular, and java springboot<br><br>👯 I’m looking to collaborate on ai related projects and full stack related projects that will enhance my grasp and knowledge about the backend<br><br>📫 How to reach me abodhdpanchal@gmail.com
+<div align="center">
 
 
-# 💻 Tech Stack:
-<p align = "center">
-  <img src = "https://skillicons.dev/icons?i=c,cpp,java,py,mysql,html,css,eclipse,arduino,figma,flutter,github,linux"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=900&color=B18CFF&center=true&vCenter=true&width=900&lines=Abodh+Panchal;Powered+by+curiosity+%26+caffeine;Collecting+bugs+like+Pok%C3%A9mon;Building+things+I'll+probably+rewrite+later;git+push+--force+(just+kidding);Coffee+ratio%3A+%E2%88%9E" alt="typing animation"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abodh-panchal-0a0b59301/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-solve-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/N0xx7)
+[![Email](https://img.shields.io/badge/Email-say%20hi-33ffb0?style=flat-square&logo=gmail&logoColor=black)](mailto:abodhdpanchal@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=N0xx77&color=b18cff&style=flat-square&label=profile+views)
+
+</div>
+
+## 💫 About Me
+
+💻 I enjoy turning ideas into full-stack applications and figuring out how things work under the hood.
+
+🧩 You'll usually find me solving LeetCode problems, experimenting with new technologies, or rebuilding projects because "I have a better idea."
+
+⚡ Currently working with Java, React, Node.js, Express, PostgreSQL, and MongoDB.
+
+🌱 Learning something every day—from DSA and backend development to system design and modern web technologies.
+
+🤝 If you're building something interesting (AI, full-stack, or open source), I'd love to be a part of it.
+
+📬 **Let's connect:** **abodhdpanchal@gmail.com**
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=N0xx77&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=N0xx77&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=N0xx77&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🧠 featured builds
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=N0xx77&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=N0xx77&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+**🧾 EdenRedClaims — Expense Claims Portal**
+<br/>
+Full-stack system for submitting and approving employee expense claims, with a React client, an Express API server, and a dedicated MongoDB service layer.
+
+Built with a clean client/server/mongoServer split for separation of concerns, deployed on Vercel.
+
+`React` `Node.js` `Express` `MongoDB` `Vercel`
+
+</td>
+</tr>
+</table>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=N0xx77&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧰 Stack
+
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=cpp,c,py,java,js,html,css,nodejs,express,react,tailwind,mongodb&theme=dark)](https://skillicons.dev)
+
+<br>
+
+[![Skills](https://skillicons.dev/icons?i=postgres,mysql,sequelize,postman,git,linux,figma,flutter,arduino&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+### 📊 stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/N0xx7?theme=nord&font=JetBrains+Mono&ext=heatmap" alt="leetcode stats"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N0xx77/N0xx77/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="a snake eating my contribution graph" src="https://raw.githubusercontent.com/N0xx77/N0xx77/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer"/>
+<sub>thanks for scrolling this far</sub>
+</div>
