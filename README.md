@@ -1,7 +1,14 @@
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N0xx77/N0xx77/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="a snake eating my contribution graph" src="https://raw.githubusercontent.com/N0xx77/N0xx77/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/N0xx77/N0xx77/output/github-contribution-grid-snake-dark.svg"
+  />
+  <img
+    alt="a snake eating my contribution graph"
+    src="https://raw.githubusercontent.com/N0xx77/N0xx77/output/github-contribution-grid-snake.svg"
+    width="100%"
+  />
+</picture>
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=900&color=B18CFF&center=true&vCenter=true&width=900&lines=Abodh+Panchal;Powered+by+curiosity+%26+caffeine;Collecting+bugs+like+Pok%C3%A9mon;Building+things+I'll+probably+rewrite+later;git+push+--force+(just+kidding);Coffee+ratio%3A+%E2%88%9E" alt="typing animation"/>
 
